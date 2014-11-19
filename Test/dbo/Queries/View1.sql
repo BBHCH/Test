@@ -5,4 +5,3 @@ AS
 SELECT
   @@SERVERNAME AS ServerName,
   @@SERVERNAME AS ServiceName;
-
