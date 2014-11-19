@@ -4,5 +4,5 @@ AS
 
 SELECT
   @@SERVERNAME AS ServerName,
-  @@SERVERNAME AS ServiceName;
-
+  @@SERVERNAME AS ServiceName,
+  @@VERSION;
